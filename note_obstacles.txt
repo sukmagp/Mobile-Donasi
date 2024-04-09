@@ -1,0 +1,7 @@
+Obstacles
+============
+1. Routing Main Feature & Bottom Navbar
+2. Shadow image
+3. Scrollview Appbar
+4. Textfield Currency
+5. Border Color Txtfield
